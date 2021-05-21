@@ -3,7 +3,7 @@ package bytesize_test
 import (
 	"fmt"
 
-	"github.com/inhies/go-bytesize"
+	"github.com/sergey-shpilevskiy/go-bytesize"
 )
 
 func ExampleNew() {
